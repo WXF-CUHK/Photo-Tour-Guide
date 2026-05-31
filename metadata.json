@@ -1,0 +1,6 @@
+{
+  "name": "Photo Tour Guide",
+  "description": "An AI-powered tour guide that recognizes city landmarks, retrieves their history, and shares captivating stories, local dining recommendations, and hidden gems.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
